@@ -1,4 +1,4 @@
-# ANIMACAO EM TENPO REAL
+# ANIMACAO EM TEMPO REAL
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
